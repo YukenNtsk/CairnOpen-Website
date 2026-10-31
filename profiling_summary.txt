@@ -1,0 +1,25 @@
+======================================================
+  Cairn Profiling Summary
+  Run started : 2026-10-31 21:46:49.420
+======================================================
+
+[Global]
+  Total runtime                       253.805 ms
+  Total runtime                       0.254 s
+  Total iterations                    0
+
+[Phase: doStep (full iteration)]
+  Avg duration                        0.000 ms
+  Min duration                        0.000 ms
+  Max duration                        0.000 ms
+
+[Phase: doInit]
+  Duration                            109.595 ms
+
+[Memory]
+  Peak RSS                            90.238 MB
+  Mem growth / iteration              0.000 MB
+
+======================================================
+  Full data: profiling_results.csv
+======================================================

@@ -1,0 +1,17 @@
+[Sat Oct 31 21:46:49 2026 warning] could not load the dynamic library C:\miniconda\envs\Lib\site-packages\cairnopen\bin\MIPCpxSolver.dll, error: 126
+[Sat Oct 31 21:46:49 2026 info] ============================================================================
+[Sat Oct 31 21:46:49 2026 info] Reading study file by the api: C:\Users\Yuken\Documents\Cairn\CairnOpen-Website\./results\First_Model.json
+[Sat Oct 31 21:46:49 2026 info] ============================================================================
+[Sat Oct 31 21:46:49 2026 info]   
+[Sat Oct 31 21:46:49 2026 info]  ############################################################################ 
+[Sat Oct 31 21:46:49 2026 info]   
+[Sat Oct 31 21:46:49 2026 info]  You are using Cairn Release: 6.0.0
+[Sat Oct 31 21:46:49 2026 info]  MIPModeler Engine: 3.17.0
+[Sat Oct 31 21:46:49 2026 info]   
+[Sat Oct 31 21:46:49 2026 info]  ############################################################################ 
+[Sat Oct 31 21:46:49 2026 info]   
+[Sat Oct 31 21:46:49 2026 info] ----- DoInit of CairnCore -----
+[Sat Oct 31 21:46:49 2026 info]   
+[Sat Oct 31 21:46:49 2026 info] Read JSON input file: C:\Users\Yuken\Documents\Cairn\CairnOpen-Website\./results\First_Model.json
+[Sat Oct 31 21:46:49 2026 warning] could not load the dynamic library C:\miniconda\envs\Lib\site-packages\cairnopen\bin\MIPCpxSolver.dll, error: 126
+[Sat Oct 31 21:46:49 2026 info] Initializing problem: configuring ports and declaring parameters/timeseries...

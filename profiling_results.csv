@@ -1,0 +1,2 @@
+RunId;Iteration;Phase;StartTime;EndTime;Duration(ms);MemoryBefore(MB);MemoryAfter(MB);MemoryDelta(MB);PeakMemory(MB)
+2026-10-31 21-46-49.673;-1;doInit;2026-10-31 21:46:49.420;2026-10-31 21:46:49.530;109.595;68.480;90.238;21.758;90.238
